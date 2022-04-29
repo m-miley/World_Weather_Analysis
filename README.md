@@ -2,6 +2,7 @@
 Resources
 
     - Python 3.9.7
+    - Jupyter Notebook
     - Google Maps Platform:
         - Places API
         - Directions API
@@ -13,6 +14,7 @@ Resources
         - Directions layer
     - Citipy module
     - Pandas
+    - NumPy
     - Matplotlib
 
 ## Overview
