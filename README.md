@@ -23,11 +23,11 @@ PlanMyTrip is a project that employs API interactions to provide real-time sugge
 
 ## Process
 
-- From over 1500 random generated NumPy arrays and zipped latitude and longitude coordinates, over 500 cities were identified and named.  
+- From over 1500 random generated NumPy arrays and zipped latitude and longitude coordinates, more than 500 cities were identified and named.  
 - Weather data was gathered from the above APIs list in the form of JSON files, further parsed and repackaged into a pandas dataframe and csv file.  
 - The implementation of linear regression models using matplotlib helped to identify a correlation between Latitude coordinates and maximum temperature.  No other parameters showed similar results. 
 - Heatmaps were generated reflecting the weather parameters using gmaps.
-- Google's Maps and Places API and Nearby Search provided Hotel names for city coordinates.
+- Google's Maps and Places API, Nearby Search, provided Hotel names for city coordinates.
 - Pop-up markers display hotel name, city name, current weather description and maximum temperature.
 
 Finally, a small list of destinations were chosen to create a travel itinerary using Google's Direction API in the form of a map with markers and info boxes.
