@@ -30,25 +30,25 @@ PlanMyTrip is a project that employs API interactions to provide real-time sugge
 - Google's Maps and Places API, Nearby Search, provided Hotel names for city coordinates.
 - Pop-up markers display hotel name, city name, current weather description and maximum temperature.
 
--Heatmap for Maximum Temperature-
+**Heatmap for Maximum Temperature**
 
 ![Screen Shot 2022-05-16 at 10 30 02 AM](https://user-images.githubusercontent.com/100544761/168629735-d90c3b16-1d9b-4ed9-ab45-db2cbcec41e0.png)
 
--API get request code snippet-
+**API get request code snippet**
 
 ![Screen Shot 2022-05-16 at 10 31 07 AM](https://user-images.githubusercontent.com/100544761/168629875-99e0e229-e953-4042-a56c-3938d56257b7.png)
 
--Markers and Content Box-
+**Markers and Content Box**
 
 ![Screen Shot 2022-05-16 at 10 34 55 AM](https://user-images.githubusercontent.com/100544761/168630600-66339c8b-3162-4c47-9d14-fc7a709f0816.png)
 
--Linear Regression models-
+**Linear Regression models**
 
 ![Fig5](https://user-images.githubusercontent.com/100544761/165880471-20f7cd3a-d5f9-4e64-9e18-5167a35a75ce.png)
 
 ![Fig6](https://user-images.githubusercontent.com/100544761/165880479-a9f96953-6df9-4b5c-b62a-d33715c233d5.png)
 
- -Finally, a small list of destinations were chosen to create a travel itinerary using Google's Direction API in the form of a map with markers and info boxes-
+ **Finally, a small list of destinations were chosen to create a travel itinerary using Google's Direction API in the form of a map with markers and info boxes**
 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/100544761/165880391-826d0726-520a-4246-b46a-e7223ca3566f.png)
 
