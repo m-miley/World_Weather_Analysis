@@ -52,4 +52,4 @@ PlanMyTrip is a project that employs API interactions to provide real-time sugge
 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/100544761/165880391-826d0726-520a-4246-b46a-e7223ca3566f.png)
 
-![WeatherPy_travel_map](https://user-images.githubusercontent.com/100544761/165880403-210abe18-76d7-4987-a9fe-7aaa61725b51.png)
+![Screen Shot 2022-05-16 at 10 44 35 AM](https://user-images.githubusercontent.com/100544761/168632104-12267b65-5597-498d-9ea6-3a921d0e7184.png)
